@@ -11,7 +11,7 @@ git clone https://github.com/nchourrout/lift-downloader.git && cd lift-downloade
 ## Usage
 
 ```
-Usage: liftdownloader.sh [-d DESTINATION] [-s SIZE]
+Usage: liftdownloader.sh [-d DESTINATION] [-s SIZE] [-h]
     -d DESTINATION destination folder (default is ~/Pictures/Wallpapers)
     -s SIZE        image size (default is 2560x1600)
     -h             show this help

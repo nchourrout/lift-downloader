@@ -26,7 +26,7 @@ e_arrow() { printf "➜ $@\n"
 #
 
 show_help() {
-  printf "Usage: $(basename "$0") [-d DESTINATION] [-s SIZE]\n"
+  printf "Usage: $(basename "$0") [-d DESTINATION] [-s SIZE] [-h]\n"
   printf "    -d DESTINATION destination folder (default is ~/Pictures/Wallpapers)\n"
   printf "    -s SIZE        image size (default is 2560x1600)\n"
   printf "    -h             show this help\n"
