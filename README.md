@@ -4,6 +4,8 @@ Wallpaper downloader
 
 ## Getting started
 
+Requires wget: `brew install wget` (OS X)
+
 ```bash
 git clone https://github.com/nchourrout/lift-downloader.git && cd lift-downloader && source liftdownloader.sh
 ```
