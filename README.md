@@ -10,6 +10,12 @@ Requires wget: `brew install wget` (OS X)
 git clone https://github.com/nchourrout/lift-downloader.git && cd lift-downloader && source liftdownloader.sh
 ```
 
+or if you just want to run it once
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/nchourrout/lift-downloader/master/liftdownloader.sh | sh
+```
+
 ## Usage
 
 ```
