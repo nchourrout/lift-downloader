@@ -1,6 +1,4 @@
-# LiftDownloader
-
-Wallpaper downloader
+# Interfacelift Wallpaper Downloader
 
 ## Getting started
 
