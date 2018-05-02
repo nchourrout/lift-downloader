@@ -1,5 +1,7 @@
 # Interfacelift Wallpaper Downloader
 
+![Screenshot](./screenshot.png)
+
 ## Getting started
 
 Requires wget: `brew install wget` (OS X)
